@@ -11,7 +11,7 @@
 ```
 
 ### > MISSION BRIEFING
-Independent creator and developer. Building digital products, content, and tools under the **Mysh** brand.
+Independent creator and developer. 
 Welcome to my digital bunker.
 
 ### > INVENTORY
@@ -24,7 +24,7 @@ Current active prototypes and releases:
 ### > S.P.E.C.I.A.L. & PERKS
 Tech stack and acquired skills:
 
-`[Creativity: 10]` `[Code: 8]` `[Luck: 7]`
+`[Creativity: 10]` `[Code: 5]` `[Luck: 8]`
 
 | Tech Stack | Tools |
 | :--- | :--- |
@@ -33,5 +33,4 @@ Tech stack and acquired skills:
 | ⚛️ React | 📓 Obsidian |
 
 ---
-<!-- Visual footer effect (Toxic Green Wave) -->
 ![Rad Footer](https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer&animation=fadeIn)
