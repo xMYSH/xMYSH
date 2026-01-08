@@ -8,6 +8,7 @@
 > faction: independent
 > location: vault [UNKNOWN]
 > current_quest: crafting mysh artifacts
+```
 
 ### > MISSION BRIEFING
 Independent creator and developer. Building digital products, content, and tools under the **Mysh** brand.
