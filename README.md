@@ -1,36 +1,60 @@
 ### > CONSOLE INITIALIZED... 🟢
 
-# ☢️ WELCOME TO RAD-MYSH TERMINAL
+# ☢️ xMysh Terminal
 
 ```bash
-> user:      rad-mysh
-> class:     creator / solo
-> faction: independent
-> location: vault [UNKNOWN]
-> current_quest: crafting mysh artifacts
+> handle:        xMysh
+> class:         anonymous creator / solo dev
+> faction:       independent
+> location:      digital bunker [UNKNOWN]
+> project_line:  MYSH artifacts
+> current_quest: building small tools for messy systems
 ```
 
 ### > MISSION BRIEFING
-Independent creator and developer. 
-Welcome to my digital bunker.
 
-### > INVENTORY
-Current active prototypes and releases:
+Independent creator and developer behind **MYSH tools**.
+I build small, practical web artifacts: cards, hints, interfaces, notes, systems and experiments.
 
-- 🗃️ **Mysh Cards** — *[Work In Progress]*
-- 💡 **Mysh Hints** — *[Knowledge Base]*
-- 📡 **Mysh Band** — *[Comms / Community]*
+No studio. No corporate faction.
+Just **xMysh** crafting tools from the bunker.
+
+### > ACTIVE ARTIFACTS
+
+Current prototypes and releases:
+
+* 🗃️ **MYSH Cards** — *[Work In Progress]*
+* 💡 **MYSH Hints** — *[Knowledge Base]*
+* 📡 **MYSH Band** — *[Comms / Community]*
+
+### > SIGNATURE
+
+```bash
+> made_by:       xMysh
+> artifact_type: MYSH tool
+> status:        experimental
+> motto:         small tools for tangled systems
+```
 
 ### > S.P.E.C.I.A.L. & PERKS
+
 Tech stack and acquired skills:
 
-`[Creativity: 10]` `[Code: 5]` `[Luck: 8]`
+`[Creativity: 10]` `[Code: 5]` `[Luck: 8]` `[Signal: 9]`
 
-| Tech Stack | Tools |
-| :--- | :--- |
-| 🐍 Python | 🔧 Git |
-| 📜 JavaScript | 🎨 Design |
-| ⚛️ React | 📓 Obsidian |
+| Tech Stack     | Tools                 |
+| :------------- | :-------------------- |
+| 🐍 Python      | 🔧 Git                |
+| 📜 JavaScript  | 🎨 Design             |
+| ⚛️ React       | 📓 Obsidian           |
+| 🌐 Web Systems | 🧩 No-code / Low-code |
 
 ---
-![Rad Footer](https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer&animation=fadeIn)
+
+```bash
+> transmission_end
+> stay curious
+> build quietly
+```
+
+![Rad Footer](https://capsule-render.vercel.app/api?type=waving\&color=39FF14\&height=120\&section=footer\&animation=fadeIn)
