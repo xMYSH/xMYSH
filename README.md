@@ -19,14 +19,6 @@ I build small, practical web artifacts: cards, hints, interfaces, notes, systems
 No studio. No corporate faction.
 Just **xMysh** crafting tools from the bunker.
 
-### > ACTIVE ARTIFACTS
-
-Current prototypes and releases:
-
-* 🗃️ **MYSH Cards** — *[Work In Progress]*
-* 💡 **MYSH Hints** — *[Knowledge Base]*
-* 📡 **MYSH Band** — *[Comms / Community]*
-
 ### > SIGNATURE
 
 ```bash
